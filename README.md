@@ -12,7 +12,8 @@ Run the notebook live in your browser using Binder (no installation required):
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure  
+
 OIBSIP/
 ├── notebooks/
 │ └── customer_segmentation.ipynb # Main Jupyter notebook
@@ -20,6 +21,7 @@ OIBSIP/
 │ └── marketing_data.csv # Dataset used for analysis
 ├── requirements.txt # Environment dependencies
 └── README.md # Project documentation
+
 ---
 
 ## 🧩 Key Steps  
