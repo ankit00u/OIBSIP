@@ -60,7 +60,7 @@ OIBSIP/
 ## 📬 Contact  
 
 **Author:** [Ankit Dey](https://github.com/ankit00u)  
-📧 *ankitdey@example.com* (replace with your actual email)  
+📧 *ankit.dey.pc@gmail.com* 
 ⭐ If you find this project useful, consider giving it a star on GitHub!  
 
 ---
