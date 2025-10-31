@@ -41,7 +41,7 @@ OIBSIP/
 
 ## 📊 Technologies Used  
 
-- Python 🐍  
+- Python   
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
